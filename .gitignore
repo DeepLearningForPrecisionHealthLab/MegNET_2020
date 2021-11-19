@@ -1,0 +1,7 @@
+MEGnet/ray_model_RS.py
+MEGnet/check_label_ICA_compnents.py
+MEGnet/slurm_ray_submit_rs.sh
+MEGnet/notebooks/*
+MEGnet/.ipynb_checkpoints
+MEGnet/brainstorm/*
+
